@@ -15,6 +15,6 @@ We use this as a tell for future purchases for each customer. Future product pur
 Once clustering was complete the recommendations were made. Mean Average Precision @k for this method was 0.101 which is quite high for NN-based techniques. To put into perspective, the Kaggle competition winners achieved Mean Precision 0.0348 for the entire dataset. Ours is comparable to that given the scale.
 
 Results:
-![]([img/Screen Shot 2023-05-22 at 10.10.32 PM.png](https://github.com/ayushi3004/product-recommendation/blob/main/img/Screen%20Shot%202023-05-22%20at%2010.10.32%20PM.png))
+![](http://url/to/img.png)
 
-![]([img/Screen Shot 2023-05-22 at 10.11.10 PM.png](https://github.com/ayushi3004/product-recommendation/blob/main/img/Screen%20Shot%202023-05-22%20at%2010.11.10%20PM.png))
+![]([img/Screen Shot 2023-05-22 at 10.11.10 PM.png]([https://github.com/ayushi3004/product-recommendation/blob/main/img/Screen%20Shot%202023-05-22%20at%2010.11.10%20PM.png](https://github.com/ayushi3004/product-recommendation/blob/main/img/Screen%20Shot%202023-05-22%20at%2010.11.10%20PM.png)))
