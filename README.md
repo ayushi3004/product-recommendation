@@ -17,4 +17,4 @@ Once clustering was complete the recommendations were made. Mean Average Precisi
 Results:
 ![](http://url/to/img.png)
 
-![]([img/Screen Shot 2023-05-22 at 10.11.10 PM.png]([https://github.com/ayushi3004/product-recommendation/blob/main/img/Screen%20Shot%202023-05-22%20at%2010.11.10%20PM.png](https://github.com/ayushi3004/product-recommendation/blob/main/img/Screen%20Shot%202023-05-22%20at%2010.11.10%20PM.png)))
+[result2](img/Screen Shot 2023-05-22 at 10.10.32 PM.png)
